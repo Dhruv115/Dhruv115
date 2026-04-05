@@ -8,7 +8,7 @@ I build ML pipelines, agentic AI systems, and end-to-end data solutions.
 
 - Currently finishing my B.Tech (graduating 2026)
 - Completed QA internship — data validation, quality checks, structured reporting
-- Building: agentic AI pipelines using CrewAI + Groq
+- Building: agentic AI pipelines using CrewAI + Groq — AutoML Agent & EDA Agent
 - Open to: Data Analyst · Data Scientist · ML Engineer roles
 
 ---
@@ -43,7 +43,7 @@ I build ML pipelines, agentic AI systems, and end-to-end data solutions.
 | [Hypertension Risk Prediction](https://github.com/Dhruv115/Hypertension-Risk-Analysis-Prediction) | ML classification for health risk analytics | Random Forest, Pandas |
 | [Cybersecurity Incident Clustering](https://github.com/Dhruv115/Temporal-Clustering-of-Cyber-Security-Incidents) | Temporal clustering of security events | K-Means, Scikit-learn |
 | [Titanic Data Analysis](https://github.com/Dhruv115/Titanic-Data-Analysis) | End-to-end analysis with feature engineering | Pandas, Seaborn |
-| [AUTO-ML](https://github.com/Dhruv115/AUTO-ML) | Python, CrewAI, Groq, Scikit-learn |
+| [AUTO-ML](https://github.com/Dhruv115/AUTO-ML) | Agentic AutoML pipeline — EDA to model tuning, fully automated | Python, CrewAI, Groq, Scikit-learn |
 ---
 
 ## Connect
