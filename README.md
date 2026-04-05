@@ -54,8 +54,7 @@ I build ML pipelines, agentic AI systems, and end-to-end data solutions.
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Oracle Cert](https://img.shields.io/badge/Oracle%20Certified-F80000?style=flat&logo=oracle&logoColor=white)](YOUR_CERT_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-bisht-01015b294/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](bishtdhruv122@gmail.com)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=100&section=footer)
