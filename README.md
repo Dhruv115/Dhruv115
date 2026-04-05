@@ -7,7 +7,7 @@ I build ML pipelines, agentic AI systems, and end-to-end data solutions.
 **Oracle Certified Data Science Professional** — actively seeking fresher roles in Data Analytics, Data Science, and AI/ML.
 
 - Currently finishing my B.Tech (graduating 2026)
-- Completed QA internship at **Ingrade** — data validation, quality checks, structured reporting
+- Completed QA internship — data validation, quality checks, structured reporting
 - Building: agentic AI pipelines using CrewAI + Groq
 - Open to: Data Analyst · Data Scientist · ML Engineer roles
 
