@@ -30,13 +30,10 @@ I build ML pipelines, agentic AI systems, and end-to-end data solutions.
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhruv115&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv115&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Dhruv115&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dhruv115&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv115&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
