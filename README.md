@@ -2,11 +2,10 @@
 
 ## About me
 
-Final-year B.Tech Computer Science (Data Science) student at GNIOT, Greater Noida.
+B.Tech Computer Science (Data Science) Graduate from AKTU.
 I build ML pipelines, agentic AI systems, and end-to-end data solutions.
 **Certified Data Science Professional** — actively seeking fresher roles in Data Analytics, Data Science, and AI/ML.
 
-- Currently finishing my B.Tech (graduating 2026)
 - Completed QA internship — data validation, quality checks, structured reporting
 - Building: agentic AI pipelines using CrewAI + Groq — AutoML Agent & EDA Agent
 - Open to: Data Analyst · Data Scientist · ML Engineer roles
